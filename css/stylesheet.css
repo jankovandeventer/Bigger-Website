@@ -1,0 +1,17 @@
+/*fonts*/
+#header, #footer{
+font-family: sans-serif;
+font-size: 1em;
+}
+
+/*positioning*/
+#footer{
+position: fixed;
+bottom: 10px;
+width: 100%;
+text-align: center;
+}
+
+li, ul{
+display: inline;
+}
