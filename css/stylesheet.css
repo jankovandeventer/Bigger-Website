@@ -3,6 +3,13 @@
 font-family: sans-serif;
 font-size: 1em;
 }
+h{
+font-family: arial, sans-serif;
+font-weight: bold;
+}
+p{
+}
+
 
 /*positioning*/
 #footer{
@@ -14,4 +21,15 @@ text-align: center;
 
 li, ul{
 display: inline;
+}
+div{
+display: block;
+margin: 10px;
+}
+
+main{
+background-color: grey;
+}
+other{
+background-color: pink;
 }
