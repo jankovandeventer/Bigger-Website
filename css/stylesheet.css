@@ -33,7 +33,7 @@ padding: px;
 display: block;
 min-width: 100%;
 
-height:auto !important; /* real browsers */
+min-height:100% !important; /* real browsers */
     height:100%; /* IE6: treaded as min-height*/
 }
 
