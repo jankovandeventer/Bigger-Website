@@ -28,7 +28,7 @@ text-align: center;
 li, ul{
 display: inline;
 }
-div{
+.full{
 min-width: 100%;
 min-height:100% !important; /* real browsers */
     height:100%; /* IE6: treaded as min-height*/
