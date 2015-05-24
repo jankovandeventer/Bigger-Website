@@ -24,6 +24,9 @@ bottom: 10px;
 width: 100%;
 text-align: center;
 }
+#header{
+position: fixed;
+}
 
 li, ul{
 display: inline;
