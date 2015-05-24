@@ -31,7 +31,6 @@ display: inline;
 div{
 padding: px;
 display: block;
-margin: 10px;
 min-width: 100%;
 
 height:auto !important; /* real browsers */
