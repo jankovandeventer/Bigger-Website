@@ -23,8 +23,11 @@ li, ul{
 display: inline;
 }
 div{
+padding: px;
 display: block;
 margin: 10px;
+height: 100h;
+width: 100%;
 }
 
 #main{
