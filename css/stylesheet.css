@@ -17,7 +17,6 @@ html,body {
     padding:0;
     height:100%; /* needed for container min-height */
 }
-
 #footer{
 position: fixed;
 bottom: 10px;
@@ -26,17 +25,15 @@ text-align: center;
 }
 #header{
 position: fixed;
+display: block;
 }
-
 li, ul{
 display: inline;
 }
 .full{
-min-width: 100%;
 min-height:100% !important; /* real browsers */
     height:100%; /* IE6: treaded as min-height*/
 }
-
 #main{
 background-color: grey;
 }
