@@ -10,6 +10,7 @@ font-weight: bold;
 p{
 }
 
+
 /*positioning*/
 #footer{
 position: fixed;
@@ -20,4 +21,15 @@ text-align: center;
 
 li, ul{
 display: inline;
+}
+div{
+display: block;
+margin: 10px;
+}
+
+#main{
+background-color: grey;
+}
+#other{
+background-color: pink;
 }
